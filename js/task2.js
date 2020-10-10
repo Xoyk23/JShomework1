@@ -10,6 +10,6 @@ const message =
     ? 'Заказ оформлен, с вами свяжется менеджер'
     : 'На складе недостаточно товаров!';
 
-const type = typeof stock;
+// const type = typeof stock;
 console.log(message);
 console.log(type);
